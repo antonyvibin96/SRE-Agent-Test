@@ -1,0 +1,24 @@
+{
+  "name": "sre-agent-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonyvibin96/SRE-Agent-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antonyvibin96/SRE-Agent-Test/issues"
+  },
+  "homepage": "https://github.com/antonyvibin96/SRE-Agent-Test#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
