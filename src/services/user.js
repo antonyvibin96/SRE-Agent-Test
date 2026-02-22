@@ -1,6 +1,7 @@
 function getUser(user) {
-    console.log("print")
-    return user.id;
+    if (user) {
+        return user.id;
+    } else {
+        throw new Error('User is undefined');
+    }
 }
-
-module.exports = {getUser}
